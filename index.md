@@ -6,7 +6,7 @@ I am first year PhD Student in the Probability and Statistics from the laboratoi
 
 ## Publications
 
-[1] Alexis Boulin, Elena Di Bernardino, Thomas Laloë, Gwladys Toulemonde, Non-parametric estimator of a multivariate madogram for missing-data and extreme value framework, Journal of Multivariate Analysis, Volume 192, November 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0047259X22000690)
+[1] Alexis Boulin, Elena Di Bernardino, Thomas Laloë, Gwladys Toulemonde, Non-parametric estimator of a multivariate madogram for missing-data and extreme value framework, Journal of Multivariate Analysis, Volume 192, November 2022. [[paper]](https://www.sciencedirect.com/science/article/pii/S0047259X22000690)
 
 ## Preprints
 
