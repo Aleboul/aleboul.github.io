@@ -10,7 +10,7 @@ I am first year PhD Student in the Probability and Statistics from the laboratoi
 
 ## Preprints
 
-[1] Alexis Boulin, Sample from copula: a COPPY module. arXiv preprint arXiv:2203.17177, March 2022. [paper](https://arxiv.org/abs/2203.17177)
+[1] Alexis Boulin, Sample from copula: a COPPY module. arXiv preprint arXiv:2203.17177, March 2022. [[paper]](https://arxiv.org/abs/2203.17177)
 
 ## Ongoing works
 
