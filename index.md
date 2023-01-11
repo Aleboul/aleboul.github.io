@@ -13,3 +13,7 @@ I am first year PhD Student in the Probability and Statistics from the laboratoi
 ## Ongoing works
 
 [1] High-dimensional clustering of sub-asymptotic maxima of a weakly dependent process.
+
+## Education
+
+MSc in statistics and machine learning, 2021. Ensae Paris.
