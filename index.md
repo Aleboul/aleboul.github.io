@@ -14,6 +14,15 @@ I am first year PhD Student in the Probability and Statistics from the laboratoi
 
 [1] High-dimensional clustering of sub-asymptotic maxima of a weakly dependent process.
 
+## Teaching
+
+<dl>
+  <dt>Statistics and modeling, third year of Bachelor degree (48 hours)</dt>
+  <dd>2021-2023</dd>
+  <dt>Oral exam in probability theory, third year of Bachelor degree (16 hours)</dt>
+  <dd>2021-2023</dd>
+</dl>
+
 ## Education
 
 <dl>
