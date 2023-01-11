@@ -16,4 +16,7 @@ I am first year PhD Student in the Probability and Statistics from the laboratoi
 
 ## Education
 
-MSc in statistics and machine learning, 2021. Ensae Paris.
+<dl>
+<dt>MSc in statistics and machine learning, 2021</dt>
+<dd>Ensae Paris</dd>
+</dl>
