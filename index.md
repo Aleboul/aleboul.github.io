@@ -6,12 +6,10 @@ I am first year PhD Student in the Probability and Statistics from the laboratoi
 
 ## Publications
 
+[2] Alexis Boulin. 2023. “A Python Package for Sampling from Copulae: Clayton.” Computo, January. [ [paper] ](https://doi.org/10.57750/4szh-t752)
+
 [1] Alexis Boulin, Elena Di Bernardino, Thomas Laloë, Gwladys Toulemonde, Non-parametric estimator of a multivariate madogram for missing-data and extreme value framework, Journal of Multivariate Analysis, Volume 192, November 2022. [ [paper] ](https://www.sciencedirect.com/science/article/pii/S0047259X22000690)
-
-## Preprints
-
-[1] Alexis Boulin, Sample from copula: a COPPY module. arXiv preprint arXiv:2203.17177, March 2022. [[paper]](https://arxiv.org/abs/2203.17177)
 
 ## Ongoing works
 
-[1] Clustering in AI-block models.
+[1] High-dimensional clustering of sub-asymptotic maxima of a weakly dependent process.
