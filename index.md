@@ -2,7 +2,7 @@
 
 ## About
 
-I am first year PhD Student in the Probability and Statistics from the laboratoire Jean Alexandre Dieudonné of Université Côte d'Azur. I am also part of the Lemon team located in Montpellier. My research interest lies in extreme value and machine learning theory. 
+I am second year PhD Student in the Probability and Statistics from the laboratoire Jean Alexandre Dieudonné of Université Côte d'Azur. I am also part of the Lemon team located in Montpellier. My research interest lies in extreme value theory and machine learning. 
 
 ## Publications
 
