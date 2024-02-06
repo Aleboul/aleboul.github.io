@@ -12,6 +12,8 @@ I am second year PhD Student in the Probability and Statistics from the laborato
 
 ## Preprints
 
+[3] Alexis Boulin, Estimating Max-Stable Random Vectors with Discrete Spectral Measure using Model-Based Clustering. [ [arXiv] ](https://arxiv.org/abs/2402.01609)
+
 [2] Alexis Boulin, Elena Di Bernardino, Thomas Laloë, Gwladys Toulemonde, Identifying regions of concomitant compound precipitation and wind speed extremes over Europe. [ [arXiv] ](https://arxiv.org/abs/2311.11292)
 
 [1] Alexis Boulin, Elena Di Bernardino, Thomas Laloë, Gwladys Toulemonde, High-dimensional variable clustering based on sub-asymptotic maxima of a weakly dependent random process. [ [arXiv] ](https://arxiv.org/abs/2302.00934)
