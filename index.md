@@ -20,9 +20,7 @@ I am currently a Wissenschaftlicher Mitarbeiter at Ruhr-Universität Bochum work
 
 ## PhD dissertation
 
-You can access my thesis by clicking the following link:
-
-[Download Thesis](https://github.com/Aleboul/aleboul.github.io/blob/main/thesis/thesis.pdf)
+You can access my thesis by clicking the following [link](https://github.com/Aleboul/aleboul.github.io/blob/main/thesis/thesis.pdf)
 
 ## Teaching
 
