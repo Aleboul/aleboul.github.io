@@ -30,6 +30,11 @@ I am currently a Wissenschaftlicher Mitarbeiter at Ruhr-Universität Bochum work
 ## Education
 
 <dl>
+<dt>PhD in mathematics, 2024</dt>
+<dd>Université Côte d'Azur, supervised by Elena Di Bernardino, Thomas Laloë and Gwladys Toulemonde</dd>
+</dl>
+
+<dl>
 <dt>MSc in statistics and machine learning, 2021</dt>
 <dd>Ensae Paris</dd>
 </dl>
