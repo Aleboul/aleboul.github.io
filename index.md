@@ -18,6 +18,12 @@ I am currently a Wissenschaftlicher Mitarbeiter at Ruhr-Universität Bochum work
 
 [1] Alexis Boulin, Elena Di Bernardino, Thomas Laloë, Gwladys Toulemonde, High-dimensional variable clustering based on sub-asymptotic maxima of a weakly dependent random process. [ [arXiv] ](https://arxiv.org/abs/2302.00934)
 
+## PhD dissertation
+
+You can access my thesis by clicking the following link:
+
+[Download Thesis]([https://github.com/Aleboul/thesis/thesis.pdf](https://github.com/Aleboul/aleboul.github.io/blob/main/thesis/thesis.pdf))
+
 ## Teaching
 
 <dl>
