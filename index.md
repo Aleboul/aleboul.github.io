@@ -25,10 +25,14 @@ You can view my [thesis](https://github.com/Aleboul/aleboul.github.io/blob/main/
 ## Teaching
 
 <dl>
+  <dt>Statistics and modeling, first year of Master's degree (36 hours)</dt>
+  <dd>2023-2024</dd>
+  <dt>Statistics and modeling, Second year of Bachelor degree (24 hours)</dt>
+  <dd>2023-2024</dd>
   <dt>Statistics and modeling, third year of Bachelor degree (48 hours)</dt>
   <dd>2021-2023</dd>
   <dt>Oral exam in probability theory, third year of Bachelor degree (16 hours)</dt>
-  <dd>2021-2023</dd>
+  <dd>2021-2024</dd>
 </dl>
 
 ## Education
