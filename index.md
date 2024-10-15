@@ -2,7 +2,7 @@
 
 ## About
 
-I am third year PhD Student in the Probability and Statistics from the laboratoire Jean Alexandre Dieudonné of Université Côte d'Azur. I am also part of the Lemon team located in Montpellier. My research interest lies in extreme value theory and machine learning. 
+I am currently a Wissenschaftlicher Mitarbeiter at Ruhr-Universität Bochum working in the team of Axel Bücher. Prior to this, I completed my PhD in Probability and Statistics at the Jean-Alexandre Dieudonné Laboratory of Université Côte d'Azur, working with the Lemon team at INRIA, Montpellier. My research interests focus on extreme value theory and machine learning.
 
 ## Publications
 
