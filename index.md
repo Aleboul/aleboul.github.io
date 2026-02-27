@@ -30,6 +30,10 @@ You can view my [thesis](https://github.com/Aleboul/aleboul.github.io/blob/main/
 ## Teaching
 
 <dl>
+  <dt> Stochastichemodelle, first year of Master's degree (12 hours) </dt>
+  <dd> 2025-2026 </dd>
+  <dt> Stochastics for engineers, first year of Master's degree (18 hours) </dt>
+  <dd> 2024-2025 </dd>
   <dt>Statistics and modeling, first year of Master's degree (36 hours)</dt>
   <dd>2023-2024</dd>
   <dt>Statistics and modeling, Second year of Bachelor degree (24 hours)</dt>
