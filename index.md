@@ -17,7 +17,9 @@ I am currently a Wissenschaftlicher Mitarbeiter at Ruhr-Universität Bochum work
 ## Preprints
 
 [1] Alexis Boulin, Axel Bücher, Structured linear factor models for tail dependence, [ [ArXiv] ](https://arxiv.org/abs/2507.16340)
+
 [2] Alexis Boulin, Erik Haufs, Extrapolating into the Extremes with Minimum Distance Estimation [ [ArXiv] ](https://arxiv.org/abs/2511.20466)
+
 [3] Alexis Boulin, Axel Bücher, Dimension Reduction in Multivariate Extremes via Latent Linear Factor Models [ [ArXiv] ](https://arxiv.org/abs/2511.20466)
 
 ## PhD dissertation
