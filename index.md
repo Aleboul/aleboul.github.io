@@ -21,7 +21,7 @@ I am currently a Wissenschaftlicher Mitarbeiter at Ruhr-Universität Bochum work
 
 [3] Alexis Boulin, Erik Haufs, Extrapolating into the Extremes with Minimum Distance Estimation. [ [ArXiv] ](https://arxiv.org/abs/2511.20466)
 
-[4] Alexis Boulin, Axel Bücher, Dimension Reduction in Multivariate Extremes via Latent Linear Factor Models. [ [ArXiv] ](https://arxiv.org/abs/2511.20466)
+[4] Alexis Boulin, Axel Bücher, Dimension Reduction in Multivariate Extremes via Latent Linear Factor Models. [ [ArXiv] ](https://arxiv.org/abs/2602.23143)
 
 ## PhD dissertation
 
