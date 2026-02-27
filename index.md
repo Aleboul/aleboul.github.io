@@ -6,17 +6,19 @@ I am currently a Wissenschaftlicher Mitarbeiter at Ruhr-Universität Bochum work
 
 ## Publications
 
+[4] Alexis Boulin, Elena Di Bernardino, Thomas Laloë, Gwladys Toulemonde, Identifying regions of concomitant compound precipitation and wind speed extremes over Europe [ [paper] ](https://doi.org/10.1093/jrsssc/qlaf014)
+
+[3] Alexis Boulin, Elena Di Bernardino, Thomas Laloë, Gwladys Toulemonde, High-Dimensional Variable Clustering based on Maxima of a Weakly Dependent Random Process. [ [paper] ](https://doi.org/10.1080/01621459.2025.2459443)
+
 [2] Alexis Boulin. 2023. “A Python Package for Sampling from Copulae: Clayton.” Computo, January. [ [paper] ](https://doi.org/10.57750/4szh-t752)
 
 [1] Alexis Boulin, Elena Di Bernardino, Thomas Laloë, Gwladys Toulemonde, Non-parametric estimator of a multivariate madogram for missing-data and extreme value framework, Journal of Multivariate Analysis, Volume 192, November 2022. [ [paper] ](https://www.sciencedirect.com/science/article/pii/S0047259X22000690)
 
 ## Preprints
 
-[3] Alexis Boulin, Estimating Max-Stable Random Vectors with Discrete Spectral Measure using Model-Based Clustering. [ [arXiv] ](https://arxiv.org/abs/2402.01609)
-
-[2] Alexis Boulin, Elena Di Bernardino, Thomas Laloë, Gwladys Toulemonde, Identifying regions of concomitant compound precipitation and wind speed extremes over Europe. [ [arXiv] ](https://arxiv.org/abs/2311.11292)
-
-[1] Alexis Boulin, Elena Di Bernardino, Thomas Laloë, Gwladys Toulemonde, High-dimensional variable clustering based on sub-asymptotic maxima of a weakly dependent random process. [ [arXiv] ](https://arxiv.org/abs/2302.00934)
+[1] Alexis Boulin, Axel Bücher, Structured linear factor models for tail dependence, [ [ArXiv] ](https://arxiv.org/abs/2507.16340)
+[2] Alexis Boulin, Erik Haufs, Extrapolating into the Extremes with Minimum Distance Estimation [ [ArXiv] ](https://arxiv.org/abs/2511.20466)
+[3] Alexis Boulin, Axel Bücher, Dimension Reduction in Multivariate Extremes via Latent Linear Factor Models [ [ArXiv] ](https://arxiv.org/abs/2511.20466)
 
 ## PhD dissertation
 
