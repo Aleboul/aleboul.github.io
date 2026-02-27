@@ -6,7 +6,7 @@ I am currently a Wissenschaftlicher Mitarbeiter at Ruhr-Universität Bochum work
 
 ## Publications
 
-[4] Alexis Boulin, Elena Di Bernardino, Thomas Laloë, Gwladys Toulemonde, Identifying regions of concomitant compound precipitation and wind speed extremes over Europe,Journal of the Royal Statistical Society Series C: Applied Statistics, Volume 74, Issue 4, November 2025, Pages 1057–1076,  [ [paper] ](https://doi.org/10.1093/jrsssc/qlaf014)
+[4] Alexis Boulin, Elena Di Bernardino, Thomas Laloë, Gwladys Toulemonde, Identifying regions of concomitant compound precipitation and wind speed extremes over Europe,Journal of the Royal Statistical Society Series C: Applied Statistics, Volume 74, Issue 4, November 2025, Pages 1057–1076.  [ [paper] ](https://doi.org/10.1093/jrsssc/qlaf014)
 
 [3] Alexis Boulin, Elena Di Bernardino, Thomas Laloë, Gwladys Toulemonde, High-Dimensional Variable Clustering based on Maxima of a Weakly Dependent Random Process, Journal of the American Statistical Association, 120(551), 1933–1944. [ [paper] ](https://doi.org/10.1080/01621459.2025.2459443)
 
