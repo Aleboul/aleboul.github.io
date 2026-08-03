@@ -6,6 +6,8 @@ I am currently a Wissenschaftlicher Mitarbeiter at Ruhr-Universität Bochum work
 
 ## Publications
 
+[5] Alexis Boulin, Axel Bücher. Structured linear factor models for tail dependence. Extremes (2026). [ [paper] ](https://doi.org/10.1007/s10687-026-00538-7 )
+
 [4] Alexis Boulin, Elena Di Bernardino, Thomas Laloë, Gwladys Toulemonde, Identifying regions of concomitant compound precipitation and wind speed extremes over Europe,Journal of the Royal Statistical Society Series C: Applied Statistics, Volume 74, Issue 4, November 2025, Pages 1057–1076.  [ [paper] ](https://doi.org/10.1093/jrsssc/qlaf014)
 
 [3] Alexis Boulin, Elena Di Bernardino, Thomas Laloë, Gwladys Toulemonde, High-Dimensional Variable Clustering based on Maxima of a Weakly Dependent Random Process, Journal of the American Statistical Association, 120(551), 1933–1944. [ [paper] ](https://doi.org/10.1080/01621459.2025.2459443)
@@ -17,11 +19,9 @@ I am currently a Wissenschaftlicher Mitarbeiter at Ruhr-Universität Bochum work
 ## Preprints
 [1] Alexis Boulin, Estimating Max-Stable Random Vectors with Discrete Spectral Measure using Model-Based Clustering. [ [ArXiv] ](https://arxiv.org/abs/2402.01609)
 
-[2] Alexis Boulin, Axel Bücher, Structured linear factor models for tail dependence. [ [ArXiv] ](https://arxiv.org/abs/2507.16340)
+[2] Alexis Boulin, Erik Haufs, Extrapolating into the Extremes with Minimum Distance Estimation. [ [ArXiv] ](https://arxiv.org/abs/2511.20466)
 
-[3] Alexis Boulin, Erik Haufs, Extrapolating into the Extremes with Minimum Distance Estimation. [ [ArXiv] ](https://arxiv.org/abs/2511.20466)
-
-[4] Alexis Boulin, Axel Bücher, Dimension Reduction in Multivariate Extremes via Latent Linear Factor Models. [ [ArXiv] ](https://arxiv.org/abs/2602.23143)
+[3] Alexis Boulin, Axel Bücher, Dimension Reduction in Multivariate Extremes via Latent Linear Factor Models. [ [ArXiv] ](https://arxiv.org/abs/2602.23143)
 
 ## PhD dissertation
 
