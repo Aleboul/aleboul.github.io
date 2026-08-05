@@ -2,7 +2,7 @@
 
 ## About
 
-I am currently a Wissenschaftlicher Mitarbeiter at Ruhr-Universität Bochum working in the team of Axel Bücher. Prior to this, I completed my PhD in Probability and Statistics at the Jean-Alexandre Dieudonné Laboratory of Université Côte d'Azur, working with the Lemon team at INRIA, Montpellier. My research interests focus on High dimensional extreme value theory. 
+I am currently a Wissenschaftlicher Mitarbeiter at Ruhr-Universität Bochum working in the team of Axel Bücher. Prior to this, I completed my PhD in Probability and Statistics at the Jean-Alexandre Dieudonné Laboratory of Université Côte d'Azur, working with the Lemon team at INRIA, Montpellier. My research interests focus on high dimensional extreme value theory. 
 
 ## Publications
 
